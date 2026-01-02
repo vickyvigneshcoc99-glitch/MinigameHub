@@ -3,7 +3,7 @@
 MiniGameHub is a fun mobile app built with **React Native & Expo** that hosts multiple mini-games in one place.
 
 ## Features
-- Multiple mini-games (like Snake, Puzzle, etc.)
+- Multiple mini-games (like Flames, Guess, Tap, etc.)
 - Simple and interactive UI
 - Cross-platform (iOS & Android)
 - Easy to extend with new games
